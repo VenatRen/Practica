@@ -1,0 +1,19 @@
+{
+  "name": "praktika",
+  "version": "1.0.0",
+  "description": "Praktika 09.07.24 - 22.07.24",
+  "main": "express.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon express.js"
+  },
+  "author": "Stavnichiy Daniil Sergeevich 090304-RPIb-o22",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "sequelize": "^6.37.3",
+    "sqlite3orm": "^2.7.2"
+  }
+}
