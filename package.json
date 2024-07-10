@@ -2,10 +2,10 @@
   "name": "praktika",
   "version": "1.0.0",
   "description": "Praktika 09.07.24 - 22.07.24",
-  "main": "express.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon express.js"
+    "start": "nodemon index.js"
   },
   "author": "Stavnichiy Daniil Sergeevich 090304-RPIb-o22",
   "license": "ISC",
