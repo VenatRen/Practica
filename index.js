@@ -1,6 +1,6 @@
 // Популярный и быстрый фреймворк
 import express from "express";
-// bodyParser для, Middleware для парсинга, взаимодействия с json
+// bodyParser - middleware для парсинга и взаимодействия с JSON.
 import bodyParser from "body-parser";
 import { Books } from "./database/models.js";
 
